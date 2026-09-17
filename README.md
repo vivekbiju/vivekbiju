@@ -15,7 +15,7 @@
   
   <div style="flex: 1 1 60%; padding-right: 20px; min-width: 300px;">
     <p>
-      I am a production-focused **AI Engineer** based in the **United Kingdom**, specializing in bridging the gap between advanced mathematical research and enterprise-grade software engineering. My expertise lies in designing and building the complete <strong>data and container infrastructures</strong> that operationalize modern models, rather than simply writing API wrappers.
+      I am a production-focused AI Engineer based in the United Kingdom, specializing in bridging the gap between advanced mathematical research and enterprise-grade software engineering. My expertise lies in designing and building the complete <strong>data and container infrastructures</strong> that operationalize modern models, rather than simply writing API wrappers.
     </p>
     <p>
       I hold a <strong>Master’s in Artificial Intelligence from the University of Plymouth</strong>, where my final semester project (MSc Final Project: Hybrid Skin Cancer Diagnostic System) received distinct focus for its innovative use of fine-tuned ResNet50 CNNs, XGBoost classification heads, and dual-layer Explainable AI (Grad-CAM and SHAP).
